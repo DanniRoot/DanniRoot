@@ -26,7 +26,7 @@
   
 </div>
   <div>
-  <a href="[(https://www.linkedin.com/in/daniele-pelichek-882761238/)](https://www.linkedin.com/in/daniele-pelichek-882761238/)" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
+  <a href="[(https://www.linkedin.com/in/daniele-pelichek-882761238/)]" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
  
 
   </div>
