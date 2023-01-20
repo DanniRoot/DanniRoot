@@ -1,5 +1,7 @@
 ## Bem-vindo(a) 😁
 
+![](file:///C:/Users/Iago%20Pelichek/Desktop/Dani/octocatDani.png)
+
  <div>
   <a href="https://github.com/DanniRoot/DanniRoot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanniRoot&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
