@@ -26,10 +26,12 @@
   
 </div>
   <div>
-  <a href="https://www.linkedin.com/in/daniele-fernandes-882761238/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
+  <a href="[https://www.linkedin.com/in/daniele-fernandes-882761238/](https://www.linkedin.com/in/daniele-pelichek-882761238/)" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
+ 
+  <object type="image/svg+xml" data="ai16742502345.svg" width="100%" height="100%"></object>
   </div>
   
-  <object type="image/svg+xml" data="ai16742502345.svg" width="100%" height="100%"></object>
+ 
           
       
           
