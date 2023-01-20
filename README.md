@@ -1,6 +1,6 @@
 ## Bem-vindo(a) 😁
 
-![](file:///C:/Users/Iago%20Pelichek/Desktop/Dani/octocatDani.png)
+
 
  <div>
   <a href="https://github.com/DanniRoot/DanniRoot">
