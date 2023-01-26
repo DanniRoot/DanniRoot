@@ -11,8 +11,8 @@
    ![Snake animation](https://github.com/DanniRoot/DanniRoot/blob/output/github-contribution-grid-snake.svg)
 <div>
  <a href="https://github.com/DanniRoot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanniRoot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniRoot&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanniRoot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniRoot&layout=compact&langs_count=7&theme=dracula"/>
 
 </div> 
  
